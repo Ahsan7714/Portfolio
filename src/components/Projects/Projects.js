@@ -82,7 +82,7 @@ function Projects()
           </a>
 
 
-          <a href="https://github.com/Ameer-Hamza289/Beach_Resort" target="_blank" >
+          <a href="" target="_blank" >
             <span type='button' className='btn btn--outline'>  View Code </span>
           </a>
     
@@ -149,7 +149,7 @@ function Projects()
           </a>
 
 
-          <a href="https://github.com/Ameer-Hamza289/MERN_TODO"  target="_blank">
+          <a href=""  target="_blank">
             <span type='button' className='btn btn--outline'>  View Code </span>
           </a>
     
@@ -214,7 +214,7 @@ function Projects()
           </a>
 
 
-          <a href="https://github.com/Ameer-Hamza289/mern_exercise-tracker"  target="_blank">
+          <a href=""  target="_blank">
             <span type='button' className='btn btn--outline'>  View Code </span>
           </a>
     

@@ -11,7 +11,7 @@ function Home()
 
         <section className="section home center">
          <h1>
-          Hi, I am <span className='about__name'>Ameer Hamza</span>
+          Hi, I am <span className='about__name'>Muhammad Ahsan</span>
         </h1>
     
       <h2 className="typer"> 
@@ -25,18 +25,17 @@ function Home()
   
  
        <section id="social">
-         <a href="https://github.com/Ameer-Hamza289" target="_blank" aria-label='github' className='link link--icon'> <GitHubIcon /> </a>
+         <a href="https://github.com/Ahsan7714" target="_blank" aria-label='github' className='link link--icon'> <GitHubIcon /> </a>
          
-         <a href="https://www.linkedin.com/in/ameer-hamza-748618244/" target="_blank" aria-label='linkedin' className='link link--icon'> <LinkedInIcon /> </a>
+         <a href="https://www.linkedin.com/in/muhammad-ahsan-5116b428a/" target="_blank" aria-label='linkedin' className='link link--icon'> <LinkedInIcon /> </a>
          
-         <a href='mailto:ameer.hamza92002@gmail.com' aria-label="email" className='link link--icon'> <Email/> </a>
+         <a href='mailto:ahsan1617k@gmail.com' aria-label="email" className='link link--icon'> <Email/> </a>
 
-         <a href='tel:+923268842130' aria-label="phone" className='link link--icon'> <Phone/> </a>
     
       </section>
      
    
-         <a href="https://drive.google.com/file/d/1hnzpOrnKgr4yliecOSCtRpZw7_C0GMYs/view?usp=sharing" target="_blank" id="resumeButton">
+         <a href="https://docs.google.com/document/d/1nF7UTXyjWdI21IfJCSHgrKbMif9OtrREgu1tK1opXQI/edit?usp=sharing" target="_blank" id="resumeButton">
             <span type='button' className='btn btn--outline'>  Resume </span>
           </a>
    

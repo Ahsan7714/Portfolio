@@ -38,19 +38,19 @@ function About() {
 
       <div className='about__contact' >
         <div>
-          <img src={Image} alt='Ameer Hamza' id='profile' />
+          <img src={Image} alt='Ahsan' id='profile' />
         </div>
 
         <div>
           <h4 className='about__desc'>
-            Hi Everyone, I am Ameer Hamza from Lahore, Pakistan.
+            Hi Everyone, I am Muhammad Ahsan from Lahore, Pakistan.
             I am currently pursuing in Bachelor of Information Technology from University of Education Township, Lahore.
           </h4>
           <br />
           <div id='interest' >
             <h4 className='about__desc'> Some of my interests apart from Coding :</h4>
 
-            <BiStar className='about__name' /> <span className='about__name'> Listening Music</span>
+            <BiStar className='about__name' /> <span className='about__name'> Reading Books</span>
             <br />
             <BiStar className='about__name' /> <span className='about__name'> Playing Badminton </span>
             <br />
@@ -68,7 +68,7 @@ function About() {
 
 
       <VerticalTimeline lineColor={linecolor}>
-        <VerticalTimelineElement date='2021 - 2025' icon={<SchoolIcon />} contentStyle={{
+        <VerticalTimelineElement date='2022 - 2026' icon={<SchoolIcon />} contentStyle={{
           boxShadow: `var(--shadow)`,
           backgroundColor: `var(--clr-bg)`,
           textAlign: "center",
@@ -96,7 +96,7 @@ function About() {
         </VerticalTimelineElement>
 
 
-        <VerticalTimelineElement date='2019 - 2021' icon={<SchoolIcon />} contentStyle={{
+        <VerticalTimelineElement date='2020 - 2022' icon={<SchoolIcon />} contentStyle={{
           boxShadow: `var(--shadow)`,
           backgroundColor: `var(--clr-bg)`,
           textAlign: "center",
@@ -116,7 +116,7 @@ function About() {
             FSC Pre-Engineering
           </h4>
           <p data-aos="fade-right">
-            KIPS College, Ameer Chowk.
+            Govt Islamia College Civil lines, Lahore.
           </p>
 
         </VerticalTimelineElement>
